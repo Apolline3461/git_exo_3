@@ -38,3 +38,4 @@ Auteurs :
  - Fabien Rozar
  - Clément Lagier
  - Apolline Fontaine
+ - Sebastien Nourry
